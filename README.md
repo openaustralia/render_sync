@@ -1,3 +1,7 @@
+> [!WARNING]
+> This project has been archived because we are not actively maintaining nor using it. It hasn't seen activity since August 2022 and may have known security vulnerabilities that have not been addressed. If you would like to move this work forward, please do! If we get enough interest, we might reconsider working on this again. You can always donate to provide us with more resources.
+
+Note: I (@benrfairless) used AI to assist with the process of archiving this repository, however I reviewed the decision myself before taking action.
 # RenderSync [![Build Status](https://img.shields.io/travis/chrismccord/sync.svg)](https://travis-ci.org/chrismccord/sync) [![Code climate](https://img.shields.io/codeclimate/github/chrismccord/sync.svg)](https://codeclimate.com/github/chrismccord/sync) [![Code coverage](https://img.shields.io/codeclimate/coverage/github/chrismccord/sync.svg)](https://codeclimate.com/github/chrismccord/sync) [![gem version](https://img.shields.io/gem/v/sync.svg)](http://rubygems.org/gems/sync)
 
 
